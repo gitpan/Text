@@ -1,0 +1,6 @@
+Revision history for Perl extension Text::Positional::Ngram.
+
+0.01  Mon Feb  2 17:35:56 2004
+	- original version; created by h2xs 1.22 with options
+		-X -n Text::Positional::Ngram
+
