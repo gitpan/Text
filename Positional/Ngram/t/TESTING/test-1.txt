@@ -1,3 +1,0 @@
-This is the   first line Of a LONG file!!!
-   the second line is, umm,  Shorter?! 
-ok on line 3 here: we-end. 

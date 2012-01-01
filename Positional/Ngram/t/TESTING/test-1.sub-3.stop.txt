@@ -1,7 +1,0 @@
-/^the$/
-/^first$/
-/^on$/
-/^line$/
-/^is$/
-/^second$/
-
